@@ -6,10 +6,10 @@ To measure output voltage w.r.t the displacement of the core on the LVDT kit and
 find the graphical relationship between the two.
 
 ### APPARATUS:
-- LVDT kit, Multimeter
+LVDT kit, Multimeter
 
 ### THEORY:
-- LVDT is basically a mutual inductance type transformer with variable coupling between the primary and two secondary coils. It is equivalent to E.Pick off in its operation except the reluctance of magnetic path is mostly due to air path. Uniformly wound over a certain length of transducer and two identical secondary coil systematically wound on either side of the primary coils and away from center. The iron rod is free to move inside the coil in either direction from the null point when primary coil is excitedly AC supply the induced emf of secondary are equal to each other with the core lying in null position. The secondary are connected in series with but in phase opposition so that resultant output voltage is zero.Displacement of core in either direction from the null position results in output voltage as read by an AC rms voltmeter and it is observed that there is a residual voltage at the null position. Due to capacitance coupling between primary and secondary and the characteristics of a linear over a limited  displacement.
+LVDT is basically a mutual inductance type transformer with variable coupling between the primary and two secondary coils. It is equivalent to E.Pick off in its operation except the reluctance of magnetic path is mostly due to air path. Uniformly wound over a certain length of transducer and two identical secondary coil systematically wound on either side of the primary coils and away from center. The iron rod is free to move inside the coil in either direction from the null point when primary coil is excitedly AC supply the induced emf of secondary are equal to each other with the core lying in null position. The secondary are connected in series with but in phase opposition so that resultant output voltage is zero.Displacement of core in either direction from the null position results in output voltage as read by an AC rms voltmeter and it is observed that there is a residual voltage at the null position. Due to capacitance coupling between primary and secondary and the characteristics of a linear over a limited  displacement.
 
 ### DIAGRAM:
 
@@ -32,16 +32,16 @@ I. Connect the multimeter at the output of kit..
 
 ### OBSERVATION TABLE
 
-<img width="1658" height="787" alt="image" src="https://github.com/user-attachments/assets/75c7cb4a-6c4b-497f-991d-82afc89479d9" />
+<img width="427" height="250" alt="image" src="https://github.com/user-attachments/assets/86b29034-5ac0-4899-9409-d30727ae9cd9" />
 
-<img width="1658" height="787" alt="image" src="https://github.com/user-attachments/assets/a8918295-7766-4247-9cdd-56fefc6c0048" />
+<img width="963" height="1280" alt="image" src="https://github.com/user-attachments/assets/f48b7ea5-5158-48ac-8e18-b28e6c681833" />
 
 
-### PRECAUTION: -
+### PRECAUTION: 
 1. The values on the multimeter should be carefully noted.
 2. The core should be set to a maximum value of 20mm.
 3. To get the good performance from the kit, main room temperature.
 4. To check the power supply, it should be 220+!- 10% 50Hz to avoid voltage hazard.
 
 ### RESULT: 
-- LVDT was studied well and graph of displacement was linear for a particular range.
+ LVDT was studied well and graph of displacement was linear for a particular range.
