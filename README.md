@@ -13,7 +13,14 @@ find the graphical relationship between the two.
 
 ### DIAGRAM:
 
+<img width="1659" height="787" alt="Screenshot 2026-05-26 190708" src="https://github.com/user-attachments/assets/7d65ee46-d1fd-496c-9641-5249ceb4ae57" />
+
+<img width="1659" height="788" alt="Screenshot 2026-05-26 191207" src="https://github.com/user-attachments/assets/82643d4a-7acd-4920-b6ae-6ad437409afc" />
+
+
 ### CIRCUIT DIAGRAM
+
+<img width="773" height="607" alt="image" src="https://github.com/user-attachments/assets/8cf7b1fb-37f3-4a37-8259-2b854b9e9fe1" />
 
 ### PROCEDURE: -
 I. Connect the multimeter at the output of kit..
